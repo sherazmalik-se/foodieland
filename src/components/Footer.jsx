@@ -25,15 +25,15 @@ function Footer() {
 
         <img src={vector1Svg} alt="gray line" className="w-full h-full" />
 
-        <p className="text-lg font-medium text-[#00000099] text-center">
+        <p className="text-lg font-medium text-[#00000099] text-center text-sm">
           Developed by{' '}
           <a
-            href="https://www.fiverr.com/sherazmalik_se"
+            href="https://sheraz-ahmad-portfolio.vercel.app"
             className="text-[#FF7967]"
           >
             Sheraz Ahmad
           </a>
-          &nbsp;& Designed by Flowbase
+          &nbsp;& Designed by flowbase.co
         </p>
       </div>
     </footer>
